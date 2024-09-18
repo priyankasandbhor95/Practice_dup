@@ -38,8 +38,6 @@ public class Base_Test {
 	public Java_utility jutility=new Java_utility();
 	public Web_Driver_utility webdriver_utility=new Web_Driver_utility();
 	public WebDriverWait wait;
-
-	
 	
 	
 	
